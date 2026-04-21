@@ -1,6 +1,6 @@
 # 🏥 DATICAN Hackathon 6 — DICOM Data Organisation Pipeline
 
-**Author:** Hackathon Team | **Date:** 2025
+**Author:** Jokodola Esther, Ajayi Temitope | **Date:** 2026
 
 ---
 
